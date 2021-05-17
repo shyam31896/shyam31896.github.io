@@ -61,10 +61,18 @@ nav .brand-logo {
   padding-top: 30px;
 }
 
+#about_row {
+  display: flex;
+}
+
+#about_col {
+  flex: 50%;
+}
+
 #profile_pic {
-  width: 70%; 
-  padding-top: 13%; 
-  margin-left: 15%;
+  width: 80%;
+  padding-top: 20%; 
+  margin-left: 10%;
 }
 
 .timeline {
@@ -185,7 +193,7 @@ nav .brand-logo {
 
   #profile_pic {
     width: 70%; 
-    padding-top: 32%; 
+    padding-top: 35%; 
     margin-left: 15%;
   }
 
@@ -255,7 +263,7 @@ nav .brand-logo {
 
   #profile_pic {
     width: 70%; 
-    padding-top: 0%; 
+    padding-top: 30%; 
     margin-left: 15%;
   }
 
